@@ -1,4 +1,5 @@
 . config
+
 echo "(===== Checks =====)"
 if [[ -d "/home/plex/acd-sorted/TvShows" ]];
 then
